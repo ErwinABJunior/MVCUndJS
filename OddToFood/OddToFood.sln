@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddToFood", "OddToFood\OddToFood.csproj", "{F359FD97-9CA4-4632-B7F2-53C8DFBA2C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddToFood.Tests", "OddToFood.Tests\OddToFood.Tests.csproj", "{F518799D-959F-492B-B6B4-9FE849E56DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F359FD97-9CA4-4632-B7F2-53C8DFBA2C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F359FD97-9CA4-4632-B7F2-53C8DFBA2C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F359FD97-9CA4-4632-B7F2-53C8DFBA2C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F359FD97-9CA4-4632-B7F2-53C8DFBA2C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F518799D-959F-492B-B6B4-9FE849E56DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F518799D-959F-492B-B6B4-9FE849E56DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F518799D-959F-492B-B6B4-9FE849E56DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F518799D-959F-492B-B6B4-9FE849E56DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55927A1D-BC4B-42A6-9672-56BBE168962A}
+	EndGlobalSection
+EndGlobal
